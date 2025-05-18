@@ -17,10 +17,9 @@
         "markdown",
         "scminput"
     ],
-    "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23.jpg",
-    "files.autoSave": "afterDelay",
+    "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
     "[php]": {
-        "editor.defaultFormatter": "obliviousharmony.vscode-php-codesniffer"
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
     "[blade]": {
@@ -48,4 +47,29 @@
     "namespaceResolver.sortAlphabetically": true,
     "namespaceResolver.sortOnSave": true,
     "sync.sourceRepository": "hrorry/vscode-settings",
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "blade.format.enable": true,
+    "vue.autoInsert.dotValue": true,
+    "prettier.singleQuote": true,
+    "editor.tabCompletion": "on",
+    "editor.detectIndentation": false,
+    "vue.format.style.initialIndent": true,
+"vue.format.script.initialIndent": true,
+"editor.formatOnType": true,
+"typescript.preferences.quoteStyle": "single",
+"javascript.preferences.quoteStyle": "single",
+"prettier.jsxSingleQuote": true,
+"vetur.completion.scaffoldSnippetSources": {
+    "quoteStyle": "single",
+    "workspace": "💼",
+    "user": "🗒️",
+    "vetur": "✌"
+},
+"prettier.configPath": ".prettierrc",
+"explorer.confirmDragAndDrop": false,
 }
