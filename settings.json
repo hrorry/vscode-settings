@@ -36,7 +36,6 @@
     "phpunit.command": "herd php artisan test",
     "phpunit.php": "",
     "phpunit.args": [
-
         "--configuration ${workspaceFolder}/phpunit.xml",
     ],
     "php-cs-fixer.formatHtml": true,
@@ -59,17 +58,17 @@
     "editor.tabCompletion": "on",
     "editor.detectIndentation": false,
     "vue.format.style.initialIndent": true,
-"vue.format.script.initialIndent": true,
-"editor.formatOnType": true,
-"typescript.preferences.quoteStyle": "single",
-"javascript.preferences.quoteStyle": "single",
-"prettier.jsxSingleQuote": true,
-"vetur.completion.scaffoldSnippetSources": {
-    "quoteStyle": "single",
-    "workspace": "💼",
-    "user": "🗒️",
-    "vetur": "✌"
-},
-"prettier.configPath": ".prettierrc",
-"explorer.confirmDragAndDrop": false,
+    "vue.format.script.initialIndent": true,
+    "editor.formatOnType": true,
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+    "prettier.jsxSingleQuote": true,
+    "vetur.completion.scaffoldSnippetSources": {
+        "quoteStyle": "single",
+        "workspace": "💼",
+        "user": "🗒️",
+        "vetur": "✌"
+    },
+    "prettier.configPath": ".prettierrc",
+    "explorer.confirmDragAndDrop": false,
 }
