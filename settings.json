@@ -69,6 +69,11 @@
         "user": "🗒️",
         "vetur": "✌"
     },
-    "prettier.configPath": ".prettierrc",
+    "prettier.configPath": "/Users/horiuchikei/Sites/code/.prettierrc",
     "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.openRepositoryInParentFolders": "never",
+    "backgroundCover.randomImageFolder": "/Users/horiuchikei/Pictures",
+    "namespaceResolver.showMessageOnStatusBar": true,
+    "explorer.confirmDelete": false,
 }
