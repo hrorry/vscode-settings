@@ -1,7 +1,6 @@
 {
     "editor.minimap.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.editor.enablePreview": false,
     "security.workspace.trust.untrustedFiles": "open",
     "elixirLS.fetchDeps": false,
     "workbench.startupEditor": "none",
@@ -76,4 +75,22 @@
     "backgroundCover.randomImageFolder": "/Users/horiuchikei/Pictures",
     "namespaceResolver.showMessageOnStatusBar": true,
     "explorer.confirmDelete": false,
+    "workbench.list.openMode": "doubleClick",
+    "workspaceExplorer.workspaceStorageDirectory": "/Users/horiuchikei/Site/code/workspaces",
+    "github.copilot.enable": {
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true,
+        "*": false
+    },
+    "workspaceSidebar.rootFolders": [
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        }
+    ],
+    "background.enabled": true,
+    "security.promptForLocalFileProtocolHandling": false,
 }
