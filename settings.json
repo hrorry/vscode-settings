@@ -89,8 +89,18 @@
         },
         {
             "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
         }
     ],
     "background.enabled": true,
     "security.promptForLocalFileProtocolHandling": false,
+    "cursor.cpp.enablePartialAccepts": true,
+    "redhat.telemetry.enabled": true,
+    "extensions.ignoreRecommendations": true,
+    "phpunit.environment": {},
 }
