@@ -18,7 +18,7 @@
     ],
     "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
     "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
     },
     "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
     "[blade]": {
@@ -50,7 +50,7 @@
         "editor.tabSize": 2
     },
     "editor.formatOnSave": true,
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "onFocusChange",
     "blade.format.enable": true,
     "vue.autoInsert.dotValue": true,
     "prettier.singleQuote": true,
@@ -95,6 +95,15 @@
         },
         {
             "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
         }
     ],
     "background.enabled": true,
@@ -103,4 +112,6 @@
     "redhat.telemetry.enabled": true,
     "extensions.ignoreRecommendations": true,
     "phpunit.environment": {},
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
 }
