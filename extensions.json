@@ -1,4 +1,6 @@
 [
+  "amiralizadeh9480.laravel-extra-intellisense",
+  "bmewburn.vscode-intelephense-client",
   "charliermarsh.ruff",
   "Dart-Code.dart-code",
   "Dart-Code.flutter",
@@ -8,6 +10,7 @@
   "DEVSENSE.profiler-php-vscode",
   "dracula-theme.theme-dracula",
   "eamodio.gitlens",
+  "esbenp.prettier-vscode",
   "fisheva.eva-theme",
   "GitHub.github-vscode-theme",
   "golang.go",
@@ -15,6 +18,7 @@
   "jasonlhy.hungry-delete",
   "jdinhlife.gruvbox",
   "KevinRose.vsc-python-indent",
+  "laravel.vscode-laravel",
   "Liveecommerce.vscode-remote-workspace",
   "MehediDracula.php-namespace-resolver",
   "mosapride.zenkaku",

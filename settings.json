@@ -18,7 +18,7 @@
     ],
     "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
     "[php]": {
-        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
     "[blade]": {
@@ -68,7 +68,7 @@
         "user": "🗒️",
         "vetur": "✌"
     },
-    "prettier.configPath": "/Users/horiuchikei/Sites/code/.prettierrc",
+    "prettier.configPath": "./.prettirttc.yml",
     "explorer.confirmDragAndDrop": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "git.openRepositoryInParentFolders": "never",
@@ -114,4 +114,20 @@
     "phpunit.environment": {},
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
+    "php.hover.fullname": true,
+    "php.inlayHints.parameters.enabled": false,
+    "php.inlayHints.parameters.byReference": false,
+    "php.inlayHints.types.lambdaParameter": false,
+    "php.inlayHints.types.suppressVariableFromLiteral": false,
+    "php.format.rules.addCommaAfterLastArrayElement": false,
+    "vue.complete.defineAssignment": false,
+    "vue.inlayHints.missingProps": true,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedConstants": false,
+    "intelephense.diagnostics.undefinedClassConstants": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedProperties": false,
+    "intelephense.diagnostics.undefinedVariables": true,
+    "intelephense.environment.phpVersion": "8.2.0",
 }
