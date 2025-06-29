@@ -35,7 +35,7 @@
     "phpunit.command": "herd php artisan test",
     "phpunit.php": "",
     "phpunit.args": [
-        "--configuration ${workspaceFolder}/phpunit.xml",
+        "--configuration ${workspaceFolder}/phpunit.xml"
     ],
     "php-cs-fixer.formatHtml": true,
     "phpCodeSniffer.autoExecutable": true,
@@ -104,6 +104,33 @@
         },
         {
             "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
+        },
+        {
+            "path": "/Users/horiuchikei/Site/code/workspaces"
         }
     ],
     "background.enabled": true,
@@ -131,4 +158,6 @@
     "intelephense.diagnostics.undefinedVariables": true,
     "intelephense.environment.phpVersion": "8.2.0",
     "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "dart.lineLength": 120
 }
