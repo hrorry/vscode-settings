@@ -1,163 +1,156 @@
 {
-    "editor.minimap.enabled": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "security.workspace.trust.untrustedFiles": "open",
-    "elixirLS.fetchDeps": false,
-    "workbench.startupEditor": "none",
-    "security.workspace.trust.enabled": false,
-    "go.autocompleteUnimportedPackages": true,
-    "git.ignoreLegacyWarning": true,
-    "liveSassCompile.settings.watchOnLaunch": true,
-    "editor.inlineSuggest.enabled": true,
-    "workbench.editor.empty.hint": "hidden",
-    "github.copilot.editor.enableAutoCompletions": true,
-    "cursor.cpp.disabledLanguages": [
-        "plaintext",
-        "markdown",
-        "scminput"
-    ],
-    "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "security.workspace.trust.untrustedFiles": "open",
+  "elixirLS.fetchDeps": false,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.enabled": false,
+  "go.autocompleteUnimportedPackages": true,
+  "git.ignoreLegacyWarning": true,
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.editor.empty.hint": "hidden",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "cursor.cpp.disabledLanguages": ["plaintext", "markdown", "scminput"],
+  "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "editor.formatOnPaste": true,
+  "bladeFormatter.format.wrapAttributes": "preserve",
+  "workbench.colorTheme": "Darcula",
+  "backgroundCover.opacity": 0.1,
+  "backgroundCover.blur": 2,
+  "backgroundCover.sizeModel": "cover",
+  "python.analysis.autoImportCompletions": true,
+  "phpunit.debuggerConfig": "",
+  "phpunit.command": "herd php artisan test",
+  "phpunit.php": "",
+  "phpunit.args": ["--configuration ${workspaceFolder}/phpunit.xml"],
+  "php-cs-fixer.formatHtml": true,
+  "phpCodeSniffer.autoExecutable": true,
+  "artisan.docker.command": "",
+  "artisan.php.location": "herd php",
+  "editor.fontSize": 13,
+  "namespaceResolver.sortAlphabetically": true,
+  "namespaceResolver.sortOnSave": true,
+  "sync.sourceRepository": "hrorry/vscode-settings",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "blade.format.enable": true,
+  "vue.autoInsert.dotValue": true,
+  "prettier.singleQuote": true,
+  "editor.tabCompletion": "on",
+  "vue.format.style.initialIndent": true,
+  "vue.format.script.initialIndent": true,
+  "editor.formatOnType": true,
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "vetur.completion.scaffoldSnippetSources": {
+    "quoteStyle": "single",
+    "workspace": "💼",
+    "user": "🗒️",
+    "vetur": "✌"
+  },
+  "prettier.configPath": "./.prettirttc.yml",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.openRepositoryInParentFolders": "never",
+  "backgroundCover.randomImageFolder": "/Users/horiuchikei/Pictures",
+  "namespaceResolver.showMessageOnStatusBar": true,
+  "explorer.confirmDelete": false,
+  "workbench.list.openMode": "doubleClick",
+  "workspaceExplorer.workspaceStorageDirectory": "/Users/horiuchikei/Site/code/workspaces",
+  "github.copilot.enable": {
+    "plaintext": true,
+    "markdown": true,
+    "scminput": true,
+    "*": false
+  },
+  "workspaceSidebar.rootFolders": [
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
     },
-    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
-    "[blade]": {
-        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
     },
-    "editor.formatOnPaste": true,
-    "bladeFormatter.format.wrapAttributes": "preserve",
-    "workbench.colorTheme": "Darcula",
-    "backgroundCover.opacity": 0.1,
-    "backgroundCover.blur": 2,
-    "backgroundCover.sizeModel": "cover",
-    "python.analysis.autoImportCompletions": true,
-    "phpunit.debuggerConfig": "",
-    "phpunit.command": "herd php artisan test",
-    "phpunit.php": "",
-    "phpunit.args": [
-        "--configuration ${workspaceFolder}/phpunit.xml"
-    ],
-    "php-cs-fixer.formatHtml": true,
-    "phpCodeSniffer.autoExecutable": true,
-    "artisan.docker.command": "",
-    "artisan.php.location": "herd php",
-    "editor.fontSize": 13,
-    "namespaceResolver.sortAlphabetically": true,
-    "namespaceResolver.sortOnSave": true,
-    "sync.sourceRepository": "hrorry/vscode-settings",
-    "[vue]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.tabSize": 2
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
     },
-    "editor.formatOnSave": true,
-    "files.autoSave": "onFocusChange",
-    "blade.format.enable": true,
-    "vue.autoInsert.dotValue": true,
-    "prettier.singleQuote": true,
-    "editor.tabCompletion": "on",
-    "editor.detectIndentation": false,
-    "vue.format.style.initialIndent": true,
-    "vue.format.script.initialIndent": true,
-    "editor.formatOnType": true,
-    "typescript.preferences.quoteStyle": "single",
-    "javascript.preferences.quoteStyle": "single",
-    "prettier.jsxSingleQuote": true,
-    "vetur.completion.scaffoldSnippetSources": {
-        "quoteStyle": "single",
-        "workspace": "💼",
-        "user": "🗒️",
-        "vetur": "✌"
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
     },
-    "prettier.configPath": "./.prettirttc.yml",
-    "explorer.confirmDragAndDrop": false,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "git.openRepositoryInParentFolders": "never",
-    "backgroundCover.randomImageFolder": "/Users/horiuchikei/Pictures",
-    "namespaceResolver.showMessageOnStatusBar": true,
-    "explorer.confirmDelete": false,
-    "workbench.list.openMode": "doubleClick",
-    "workspaceExplorer.workspaceStorageDirectory": "/Users/horiuchikei/Site/code/workspaces",
-    "github.copilot.enable": {
-        "plaintext": true,
-        "markdown": true,
-        "scminput": true,
-        "*": false
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
     },
-    "workspaceSidebar.rootFolders": [
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        },
-        {
-            "path": "/Users/horiuchikei/Site/code/workspaces"
-        }
-    ],
-    "background.enabled": true,
-    "security.promptForLocalFileProtocolHandling": false,
-    "cursor.cpp.enablePartialAccepts": true,
-    "redhat.telemetry.enabled": true,
-    "extensions.ignoreRecommendations": true,
-    "phpunit.environment": {},
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "php.hover.fullname": true,
-    "php.inlayHints.parameters.enabled": false,
-    "php.inlayHints.parameters.byReference": false,
-    "php.inlayHints.types.lambdaParameter": false,
-    "php.inlayHints.types.suppressVariableFromLiteral": false,
-    "php.format.rules.addCommaAfterLastArrayElement": false,
-    "vue.complete.defineAssignment": false,
-    "vue.inlayHints.missingProps": true,
-    "intelephense.diagnostics.undefinedTypes": false,
-    "intelephense.diagnostics.undefinedFunctions": false,
-    "intelephense.diagnostics.undefinedConstants": false,
-    "intelephense.diagnostics.undefinedClassConstants": false,
-    "intelephense.diagnostics.undefinedMethods": false,
-    "intelephense.diagnostics.undefinedProperties": false,
-    "intelephense.diagnostics.undefinedVariables": true,
-    "intelephense.environment.phpVersion": "8.2.0",
-    "editor.wordWrap": "bounded",
-    "editor.wordWrapColumn": 120,
-    "dart.lineLength": 120
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    }
+  ],
+  "background.enabled": true,
+  "security.promptForLocalFileProtocolHandling": false,
+  "cursor.cpp.enablePartialAccepts": true,
+  "redhat.telemetry.enabled": true,
+  "extensions.ignoreRecommendations": true,
+  "phpunit.environment": {},
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "php.hover.fullname": true,
+  "php.inlayHints.parameters.enabled": false,
+  "php.inlayHints.parameters.byReference": false,
+  "php.inlayHints.types.lambdaParameter": false,
+  "php.inlayHints.types.suppressVariableFromLiteral": false,
+  "php.format.rules.addCommaAfterLastArrayElement": false,
+  "vue.complete.defineAssignment": false,
+  "vue.inlayHints.missingProps": true,
+  "intelephense.diagnostics.undefinedTypes": false,
+  "intelephense.diagnostics.undefinedFunctions": false,
+  "intelephense.diagnostics.undefinedConstants": false,
+  "intelephense.diagnostics.undefinedClassConstants": false,
+  "intelephense.diagnostics.undefinedMethods": false,
+  "intelephense.diagnostics.undefinedProperties": false,
+  "intelephense.diagnostics.undefinedVariables": true,
+  "intelephense.environment.phpVersion": "8.2.0",
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 120,
+  "dart.lineLength": 120
 }
