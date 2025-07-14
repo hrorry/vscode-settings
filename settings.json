@@ -49,8 +49,6 @@
   "vue.autoInsert.dotValue": true,
   "prettier.singleQuote": true,
   "editor.tabCompletion": "on",
-  "vue.format.style.initialIndent": true,
-  "vue.format.script.initialIndent": true,
   "editor.formatOnType": true,
   "typescript.preferences.quoteStyle": "single",
   "javascript.preferences.quoteStyle": "single",
@@ -77,6 +75,12 @@
     "*": false
   },
   "workspaceSidebar.rootFolders": [
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
+    {
+      "path": "/Users/horiuchikei/Site/code/workspaces"
+    },
     {
       "path": "/Users/horiuchikei/Site/code/workspaces"
     },
@@ -152,5 +156,7 @@
   "intelephense.environment.phpVersion": "8.2.0",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 120,
-  "dart.lineLength": 120
+  "dart.lineLength": 160,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true
 }
