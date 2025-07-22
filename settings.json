@@ -14,7 +14,7 @@
   "cursor.cpp.disabledLanguages": ["plaintext", "markdown", "scminput"],
   "backgroundCover.imagePath": "/Users/horiuchikei/Pictures/asukasaito23 2.jpg",
   "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
   "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
   "[blade]": {
@@ -43,7 +43,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.tabSize": 2
   },
-  "editor.formatOnSave": true,
   "files.autoSave": "onFocusChange",
   "blade.format.enable": true,
   "vue.autoInsert.dotValue": true,
@@ -153,10 +152,14 @@
   "intelephense.diagnostics.undefinedMethods": false,
   "intelephense.diagnostics.undefinedProperties": false,
   "intelephense.diagnostics.undefinedVariables": true,
-  "intelephense.environment.phpVersion": "8.2.0",
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 120,
   "dart.lineLength": 160,
   "git.confirmSync": false,
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "php-cs-fixer.autoFixBySemicolon": true,
+  "php-cs-fixer.autoFixByBracket": true,
+  "php-cs-fixer.executable": "phpcs",
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer-v3.phar",
 }
